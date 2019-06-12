@@ -48,6 +48,7 @@ The following **additional** features are implemented:<br/>
 We added arrows.
 
 ## Addtional 
-* When lost all of lives you must quit app and restart it.
+* When lost all of lives or win the game you must quit app and restart it.
 * Some bugs with changing forms of mario usally jumping to the left fixes it
 * Some bugs when colliding with objects
+*To change levels, mario must jump and hit the top of the flag.
